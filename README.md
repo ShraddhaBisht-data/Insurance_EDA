@@ -107,5 +107,4 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
 Shraddha Bisht
  Data Scientist
 
-Shraddha Bisht
-Aspiring Data Scientist
+
